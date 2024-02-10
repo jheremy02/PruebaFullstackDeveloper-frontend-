@@ -1,0 +1,1 @@
+export const showModalDeleteSelector=state=>state.ui.showModalDelete
